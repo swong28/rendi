@@ -57,4 +57,4 @@ tqdm==4.31.1
 Unidecode==1.0.23
 urllib3==1.24.1
 websocket-client==0.55.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
