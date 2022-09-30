@@ -21,7 +21,7 @@ idna==2.8
 inflect==0.2.5
 itsdangerous==1.1.0
 Jinja2==2.10
-joblib==0.13.2
+joblib==1.2.0
 Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
